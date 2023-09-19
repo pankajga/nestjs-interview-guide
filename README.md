@@ -1,5 +1,8 @@
 # nestjs-interview-guide
 
+https://codeculturepro.medium.com/node-js-interview-questions-basic-to-advanced-part-5-136b990ff2cf
+https://anywhere.epam.com/en/blog/advanced-node-js-interview-questions-answers
+
 1. How do you use Redis in Node.js?
 
 Redis is an in-memory data store used for caching and data storage in a Node.js application. Here's an example of using Redis to cache data:
